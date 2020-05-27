@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  
+  &__breadcrumbs {
+    width: 100%;
+    font-weight: 600;
+    font-size: 1.5rem;
+  }
+}
